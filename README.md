@@ -1,2 +1,2 @@
 # christmas-loading-scrimba
-A simple JavaScriptChallenge
+A simple JavaScript Challenge
